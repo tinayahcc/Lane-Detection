@@ -1,2 +1,2 @@
 # Lane-Detection
-python lane detection (draw line)
+python opencv lane detection (draw line)
